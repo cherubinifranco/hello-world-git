@@ -82,3 +82,29 @@ export  $initHighlight;
 |   Maxi     |      Burgos   |   34251546    |
 |   Tomas    |      Burgos   |   34251546    |
 
+# Citas
+Esto es un texto referente a una cita:
+> Esto es una cita. 
+
+Esto es otro tenxto que no se relaciona con la cita anterior.
+>Esto es otra cita.
+
+# Lineas divisoras
+
+Esto es un texto que será dividido por guiones.
+
+---
+
+Esto es un texto dividido por asteriscos.
+
+***
+
+Esto es un texto dividido por guiones bajos.
+___
+
+# Saltos de linea
+Esto es el primer parrafo.
+
+Esto es el segundo parrafo.
+
+Esto es el tercer parrafo.
